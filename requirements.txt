@@ -1,0 +1,45 @@
+# EchoMind - Complete Requirements File
+# This file provides an overview of all project requirements
+# For specific installation instructions, see REQUIREMENTS.md
+
+# ============================================
+# FRONTEND DEPENDENCIES
+# ============================================
+# Install with: npm install
+# See package.json for detailed dependencies
+
+# ============================================
+# PYTHON BACKEND DEPENDENCIES
+# ============================================
+# Install with: pip install -r server/requirements.txt
+# Or install individually:
+
+Flask==3.0.0
+flask-cors==4.0.0
+python-dotenv==1.0.0
+
+# Optional Production Dependencies
+# gunicorn==21.2.0
+
+# ============================================
+# SYSTEM REQUIREMENTS
+# ============================================
+# - Node.js 18.0.0 or higher
+# - Python 3.8.0 or higher
+# - npm 9.0.0 or higher
+# - pip 21.0.0 or higher
+
+# ============================================
+# INSTALLATION
+# ============================================
+# 1. Frontend: npm install
+# 2. Backend: pip install -r server/requirements.txt
+# 3. See REQUIREMENTS.md for detailed instructions
+
+# ============================================
+# NOTES
+# ============================================
+# - For detailed requirements, see REQUIREMENTS.md
+# - For setup instructions, see SETUP.md
+# - For quick start, see QUICKSTART.md
+
